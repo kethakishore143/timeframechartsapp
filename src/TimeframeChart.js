@@ -6,7 +6,7 @@ import axios from 'axios';
 import { format, parseISO, startOfWeek, startOfMonth, } from 'date-fns';
 
 
-import "../App.css"
+import "./App.css"
 
 const TimeframeChart = () => {
     const [data, setData] = useState([]);
