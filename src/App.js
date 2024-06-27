@@ -1,5 +1,5 @@
 import React from 'react';
-import TimeframeChart from './components/TimeframeChart';
+import TimeframeChart from './TimeframeChart';
 
 
 const App = () => {
